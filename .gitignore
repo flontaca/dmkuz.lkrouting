@@ -1,0 +1,11 @@
+# Игнорировать все папки и файлы
+*
+
+# Разрешить папку test
+!/test/
+
+# Разрешить папку local/modules/dmkuz.lkrouting
+!/local/modules/dmkuz.lkrouting/
+
+# Разрешить сам .gitignore
+!/.gitignore
